@@ -1,6 +1,3 @@
-### NAME : ROHITH V
-### REG NO : 212223040174
-
 # ARP-Attack-and-Network-Sniffing
 # Explore Network Sniffing and ARP Attacks
 
@@ -55,4 +52,3 @@ Invoke the wireshark and examine the various menus  and controls of the tool:
 ![wireshark](/image/wireshark.png)
 ### RESULT:
 The kali linux tools for ARP Attack and Network Sniffing were identified successfully
-
